@@ -1,5 +1,4 @@
-# Spring Boot CRUD Приложение  
-![баннер](./assets/banner.jpg)
+# Spring Boot CRUD Приложение
 
 ## Введение  
 
